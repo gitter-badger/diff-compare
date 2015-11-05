@@ -1,5 +1,7 @@
 # diff-compare
 
+[![Join the chat at https://gitter.im/therebelrobot/diff-compare](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/therebelrobot/diff-compare?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 
 [![NPM](https://nodei.co/npm/diff-compare.png?downloads=true)](https://nodei.co/npm/diff-compare/)
 [![NPM](https://nodei.co/npm-dl/diff-compare.png?months=3&height=2)](https://nodei.co/npm/diff-compare/)
